@@ -48,6 +48,8 @@ Para construir la imagen de este `Dockerfile`, usarías:
 
 ```bash
 docker build -t mynodeapp:1.0 .
+
+docker build -f Dockerfile.txt -t myapp:1.0 .
 ```
 
 Este comando:

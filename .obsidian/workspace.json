@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL para Data Engineering/Funciones avanzadas.md",
+                "file": "Docker/Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funciones avanzadas"
+              "title": "Template"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Esquema de Comprenhensions"
             }
+          },
+          {
+            "id": "3f6048410a1ffe05",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,13 +175,21 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8457206b2de03417",
+  "active": "3f6048410a1ffe05",
   "lastOpenFiles": [
-    "SQL/SQL para Data Engineering/SQL en Big Data.md",
+    "README.md",
+    "Docker/Dockerfile/Build.md",
+    "Docker/Template.md",
+    "SQL/Template.md",
+    "Python/Template.md",
+    "Pandas/Template.md",
+    "Python/Estructuras de Datos/Diccionarios.md",
     "SQL/SQL para Data Engineering/Funciones avanzadas.md",
+    "SQL/SQL para Data Engineering/SQL en Big Data.md",
     "SQL/SQL para Data Engineering/SQL en DWH.md",
     "SQL/SQL para Data Engineering/ETL.md",
     "SQL/Transacciones, concurrencia y Seguridad/Sharding y Replicación.md",
@@ -191,13 +209,6 @@
     "SQL/Modelado de Datos y Diseño de BD/Normalización.md",
     "SQL/Joins y Relaciones/CTE.md",
     "SQL/Modelado de Datos y Diseño de BD",
-    "SQL/Funciones Agregadas/Count, Sum, Avg, Min, Max.md",
-    "SQL/Operaciones Básicas/Order By, Limit, Offset.md",
-    "SQL/Filtrado de Datos/Filtros y Condiciones.md",
-    "SQL/Fundamentos/TCL.md",
-    "SQL/Fundamentos/DCL.md",
-    "SQL/Fundamentos/DDL.md",
-    "SQL/Fundamentos/DML.md",
     "Pandas/Buenas Prácticas",
     "Pandas/Datos Grandes/Operaciones Distribuidas",
     "Pandas/Datos Grandes/Lectura y Escritura",
