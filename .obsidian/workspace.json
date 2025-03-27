@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f9c6e87c906c5d",
+        "id": "fe8918eee06baf89",
         "type": "tabs",
         "children": [
           {
-            "id": "8457206b2de03417",
+            "id": "635d0274391c8baa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Template.md",
+                "file": "Java/Strings - RegEx/RegEx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template"
+              "title": "RegEx"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Estructuras de Control/Comprenhensions.md",
+                "file": "Java/Strings - RegEx/RegEx.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Comprenhensions"
+              "title": "Esquema de RegEx"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,42 +181,42 @@
   },
   "active": "3f6048410a1ffe05",
   "lastOpenFiles": [
-    "README.md",
-    "Docker/Dockerfile/Build.md",
-    "Docker/Template.md",
-    "SQL/Template.md",
+    "Java/Strings - RegEx/StringBuffer.md",
+    "Java/Strings - RegEx/RegEx.md",
+    "Java/Strings - RegEx/StringBuilder.md",
+    "Java/Strings - RegEx/Strings.md",
+    "Java/Strings - RegEx",
+    "Java/Collections/Otras Cosas/Comparators.md",
+    "Java/Collections/Array.md",
+    "Java/Collections/Otras Cosas",
+    "Java/Collections/List.md",
+    "Java/Collections/Deque.md",
+    "Java/Collections/Queue.md",
+    "Java/Collections/Stack.md",
+    "Java/Collections/TreeMap.md",
+    "Java/Collections/LinkedHashMap.md",
+    "Java/Collections/HashMap.md",
+    "Java/Collections/TreeSet.md",
+    "Java/Collections/LinkedHashSet.md",
+    "Java/Collections/HashSet.md",
+    "Java/Collections/LinkedList.md",
+    "Java/Collections/ArrayList.md",
     "Python/Template.md",
-    "Pandas/Template.md",
-    "Python/Estructuras de Datos/Diccionarios.md",
-    "SQL/SQL para Data Engineering/Funciones avanzadas.md",
-    "SQL/SQL para Data Engineering/SQL en Big Data.md",
-    "SQL/SQL para Data Engineering/SQL en DWH.md",
-    "SQL/SQL para Data Engineering/ETL.md",
-    "SQL/Transacciones, concurrencia y Seguridad/Sharding y Replicación.md",
+    "Python/Manipulación de Archivos/Open(), Modos de apertura.md",
+    "Python/Manipulación de Archivos/Lectura, Escritura.md",
+    "Python/Manipulación de Cadenas/Métodos.md",
+    "Python/Manipulación de Cadenas/Formateo.md",
+    "Python/Funciones/Params, Args.md",
+    "Python/Funciones/Lambda.md",
+    "Python/Funciones/Exceptions.md",
+    "Sin título.canvas",
+    "Java/Collections",
+    "Java",
     "SQL/SQL para Data Engineering",
-    "SQL/Transacciones, concurrencia y Seguridad/Deadlocks.md",
-    "SQL/Transacciones, concurrencia y Seguridad/Bloqueos y Concurrencia.md",
-    "SQL/Transacciones, concurrencia y Seguridad/ACID.md",
-    "SQL/Optimización y Performance/Case When.md",
-    "SQL/Optimización y Performance/Optimizar Joins.md",
-    "SQL/Optimización y Performance/Caching.md",
-    "SQL/Optimización y Performance/Índices, clustered, non-clustered.md",
-    "SQL/Optimización y Performance/Explain.md",
-    "SQL/Modelado de Datos y Diseño de BD/Foreign Keys y Cascading.md",
-    "SQL/Modelado de Datos y Diseño de BD/Particionamiento.md",
-    "SQL/Modelado de Datos y Diseño de BD/Índices (B-TREE, HASH).md",
-    "SQL/Modelado de Datos y Diseño de BD/Desnormalización y cuando aplicarla.md",
-    "SQL/Modelado de Datos y Diseño de BD/Normalización.md",
-    "SQL/Joins y Relaciones/CTE.md",
     "SQL/Modelado de Datos y Diseño de BD",
     "Pandas/Buenas Prácticas",
     "Pandas/Datos Grandes/Operaciones Distribuidas",
     "Pandas/Datos Grandes/Lectura y Escritura",
-    "Pandas/Datos Grandes",
-    "Pandas/Operaciones Avanzadas/Indexación y Manipulación de Datos",
-    "Pandas/Operaciones Avanzadas/Broadcasting y Vectorización",
-    "Pandas/Operaciones Avanzadas",
-    "Pandas/Manejo de Memoria y Rendimiento",
-    "Sin título.canvas"
+    "Pandas/Datos Grandes"
   ]
 }

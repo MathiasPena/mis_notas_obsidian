@@ -1,0 +1,61 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 21,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "CoData",
+      "SiPostgresql",
+      "TiSql",
+      "SiPython",
+      "SiPandas"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Java": {
+    "iconName": "RiJavaLine",
+    "iconColor": "#a10808"
+  },
+  "Docker": {
+    "iconName": "SiDocker",
+    "iconColor": "#1958be"
+  },
+  "Pandas": {
+    "iconName": "SiPandas",
+    "iconColor": "#5d1499"
+  },
+  "Python": {
+    "iconName": "SiPython",
+    "iconColor": "#aea919"
+  },
+  "SQL": {
+    "iconName": "SiPostgresql",
+    "iconColor": "#2f61a2"
+  },
+  "Big Data": {
+    "iconName": "CoData",
+    "iconColor": "#a8ccca"
+  }
+}
