@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Excepciones/Supressed - Chained.md",
+                "file": "Java/Collections/Otras Cosas/Iterators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supressed - Chained"
+              "title": "Iterators"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Excepciones/Supressed - Chained.md",
+                "file": "Java/Collections/Otras Cosas/Iterators.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Supressed - Chained"
+              "title": "Esquema de Iterators"
             }
           },
           {
@@ -179,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "803d174ed1037c5a",
+  "active": "635d0274391c8baa",
   "lastOpenFiles": [
-    "Java/Excepciones/Checked - Unchecked.md",
     "Java/Excepciones/Supressed - Chained.md",
+    "Java/Collections/Otras Cosas/Iterators.md",
+    "Java/Excepciones/Checked - Unchecked.md",
     "Java/Excepciones/Excepciones Personalizadas.md",
     "Java/Excepciones/Throws-Throw.md",
     "Java/Excepciones/Try-Catch-Finally.md",
@@ -209,7 +210,6 @@
     "Java/Collections/ArrayList.md",
     "Python/Template.md",
     "Python/Manipulación de Archivos/Open(), Modos de apertura.md",
-    "Python/Manipulación de Archivos/Lectura, Escritura.md",
     "Sin título.canvas",
     "Java/Collections",
     "Java",
