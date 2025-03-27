@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Strings - RegEx/RegEx.md",
+                "file": "Java/Excepciones/Supressed - Chained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RegEx"
+              "title": "Supressed - Chained"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Strings - RegEx/RegEx.md",
+                "file": "Java/Excepciones/Supressed - Chained.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de RegEx"
+              "title": "Esquema de Supressed - Chained"
             }
           },
           {
@@ -179,10 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f6048410a1ffe05",
+  "active": "803d174ed1037c5a",
   "lastOpenFiles": [
-    "Java/Strings - RegEx/StringBuffer.md",
+    "Java/Excepciones/Checked - Unchecked.md",
+    "Java/Excepciones/Supressed - Chained.md",
+    "Java/Excepciones/Excepciones Personalizadas.md",
+    "Java/Excepciones/Throws-Throw.md",
+    "Java/Excepciones/Try-Catch-Finally.md",
     "Java/Strings - RegEx/RegEx.md",
+    "Java/Excepciones",
+    "Java/Strings - RegEx/StringBuffer.md",
     "Java/Strings - RegEx/StringBuilder.md",
     "Java/Strings - RegEx/Strings.md",
     "Java/Strings - RegEx",
@@ -204,11 +210,6 @@
     "Python/Template.md",
     "Python/Manipulación de Archivos/Open(), Modos de apertura.md",
     "Python/Manipulación de Archivos/Lectura, Escritura.md",
-    "Python/Manipulación de Cadenas/Métodos.md",
-    "Python/Manipulación de Cadenas/Formateo.md",
-    "Python/Funciones/Params, Args.md",
-    "Python/Funciones/Lambda.md",
-    "Python/Funciones/Exceptions.md",
     "Sin título.canvas",
     "Java/Collections",
     "Java",
@@ -216,7 +217,6 @@
     "SQL/Modelado de Datos y Diseño de BD",
     "Pandas/Buenas Prácticas",
     "Pandas/Datos Grandes/Operaciones Distribuidas",
-    "Pandas/Datos Grandes/Lectura y Escritura",
-    "Pandas/Datos Grandes"
+    "Pandas/Datos Grandes/Lectura y Escritura"
   ]
 }
