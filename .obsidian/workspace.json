@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3902ecd7cb3ea6c",
+        "id": "8505dea5c4d4079f",
         "type": "tabs",
         "children": [
           {
-            "id": "cee71a0f1dc82e17",
+            "id": "75de6a4f7e66e576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Programación Funcional/ParallelStream().md",
+                "file": "Java/Datos y Operadores/Métodos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ParallelStream()"
+              "title": "Métodos"
             }
           }
         ]
@@ -178,10 +178,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cee71a0f1dc82e17",
+  "active": "803d174ed1037c5a",
   "lastOpenFiles": [
-    "Java/Programación Funcional/Composición de funciones.md",
+    "Java/Datos y Operadores/Operadores.md",
+    "Java/Datos y Operadores/Métodos.md",
+    "Java/Datos y Operadores/Autoboxing - Unboxing.md",
+    "Java/Datos y Operadores/Wrappers.md",
+    "Java/Datos y Operadores/Primitivos.md",
+    "Java/Datos y Operadores",
+    "Java/JVM - Gestión de Memoria/Memory-mapped Files.md",
+    "Java/JVM - Gestión de Memoria/Garbage Collector - Diferencias.md",
+    "Java/JVM - Gestión de Memoria/Inlining, Optimización JIT.md",
+    "Java/JVM - Gestión de Memoria/Escape Analysis y Eliminación de Objetos.md",
+    "Java/JVM - Gestión de Memoria/GC Logs y Monitoreo.md",
+    "Java/JVM - Gestión de Memoria/Tiempos de vida en la memoria.md",
+    "Java/JVM - Gestión de Memoria/Optimización de memoria.md",
+    "Java/JVM - Gestión de Memoria/Garbage Collector.md",
+    "Java/JVM - Gestión de Memoria/ClassLoader.md",
+    "Java/JVM - Gestión de Memoria/Metaspace.md",
+    "Java/JVM - Gestión de Memoria/Stack.md",
+    "Java/JVM - Gestión de Memoria/Heap.md",
+    "Java/JVM - Gestión de Memoria/Estructura de la JVM.md",
+    "Java/JVM - Gestión de Memoria",
     "Java/Programación Funcional/ParallelStream().md",
+    "Java/Programación Funcional/Composición de funciones.md",
     "Java/Programación Funcional/Collectors.md",
     "Java/Programación Funcional/Optional.md",
     "Java/Programación Funcional/Stream API.md",
@@ -189,33 +209,13 @@
     "Java/Programación Funcional/Lambdas.md",
     "Java/Programación Funcional",
     "Java/Hilos/DeadLocks.md",
-    "Java/Hilos/Thread - Runnable.md",
-    "Java/Hilos/ThreadLocal.md",
-    "Java/Hilos/Interrupción.md",
-    "Java/Hilos/Thread Pool.md",
-    "Java/Hilos/Deamon Threads.md",
-    "Java/Hilos/Estados de los hilos.md",
-    "Java/Hilos/Synchronized.md",
-    "Java/Hilos/Future - CompletableFuture.md",
-    "Java/Hilos/Executor Service - Callable.md",
-    "Java/Hilos/Locks.md",
-    "Java/Streams - File Managment/Compresión de archivos.md",
     "Java/Hilos",
-    "Java/Streams - File Managment/Binary Data Flow (FileInStream, FileOutStream).md",
-    "Java/Streams - File Managment/File Managment.md",
-    "Java/Streams - File Managment/Buffered IO.md",
-    "Java/Streams - File Managment/NIO (New IO).md",
-    "Java/Streams - File Managment/Excepciones.md",
-    "Java/Streams - File Managment/Serialización - Deserialización.md",
-    "Java/Streams - File Managment/FileWriter, BufferedWriter, PrintWriter.md",
     "Java/Streams - File Managment",
     "Java/POO - Clases - Interfaces",
     "Java/Excepciones",
     "Java/Strings - RegEx",
     "Java/Collections/Otras Cosas",
     "Sin título.canvas",
-    "Java/Collections",
-    "Java",
-    "SQL/SQL para Data Engineering"
+    "Java/Collections"
   ]
 }
