@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Datos y Operadores/Métodos.md",
+                "file": "Java/Reflection API/Reflexión en SpringBoot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Métodos"
+              "title": "Reflexión en SpringBoot"
             }
           }
         ]
@@ -180,8 +180,28 @@
   },
   "active": "803d174ed1037c5a",
   "lastOpenFiles": [
-    "Java/Datos y Operadores/Operadores.md",
+    "Java/Reflection API/8 - Limitaciones - Consideraciones de seguridad.md",
+    "Java/Reflection API/Reflexión en SpringBoot.md",
+    "Java/Reflection API/7 - Uso Práctico.md",
+    "Java/Reflection API/6 - Modificación de Modificadores de acceso.md",
+    "Java/Reflection API/5 - Creación de Objetos dinámicamente.md",
+    "Java/Reflection API/4 - Acceso a Atributos-Campos.md",
+    "Java/Reflection API/3 - Acceso a métodos por Reflexión.md",
+    "Java/Reflection API/2 - Clases y Objetos en Reflexión.md",
+    "Java/Reflection API/1 - Introducción.md",
+    "Java/Annotations/Spring Boot - Anotaciones avanzadas.md",
+    "Java/Reflection API",
+    "Java/Sin título.md",
+    "Java/Annotations/Spring Boot - Anotaciones básicas.md",
+    "Java/Annotations/Anotaciones avanzadas.md",
+    "Java/Annotations/Anotaciones básicas.md",
+    "Java/Enum - Records/Records.md",
+    "Java/Annotations",
+    "Java/Enum - Records/Switch con Enum.md",
+    "Java/Enum - Records/Enum.md",
     "Java/Datos y Operadores/Métodos.md",
+    "Java/Enum - Records",
+    "Java/Datos y Operadores/Operadores.md",
     "Java/Datos y Operadores/Autoboxing - Unboxing.md",
     "Java/Datos y Operadores/Wrappers.md",
     "Java/Datos y Operadores/Primitivos.md",
@@ -190,32 +210,12 @@
     "Java/JVM - Gestión de Memoria/Garbage Collector - Diferencias.md",
     "Java/JVM - Gestión de Memoria/Inlining, Optimización JIT.md",
     "Java/JVM - Gestión de Memoria/Escape Analysis y Eliminación de Objetos.md",
-    "Java/JVM - Gestión de Memoria/GC Logs y Monitoreo.md",
-    "Java/JVM - Gestión de Memoria/Tiempos de vida en la memoria.md",
-    "Java/JVM - Gestión de Memoria/Optimización de memoria.md",
-    "Java/JVM - Gestión de Memoria/Garbage Collector.md",
-    "Java/JVM - Gestión de Memoria/ClassLoader.md",
-    "Java/JVM - Gestión de Memoria/Metaspace.md",
-    "Java/JVM - Gestión de Memoria/Stack.md",
-    "Java/JVM - Gestión de Memoria/Heap.md",
-    "Java/JVM - Gestión de Memoria/Estructura de la JVM.md",
     "Java/JVM - Gestión de Memoria",
-    "Java/Programación Funcional/ParallelStream().md",
-    "Java/Programación Funcional/Composición de funciones.md",
-    "Java/Programación Funcional/Collectors.md",
-    "Java/Programación Funcional/Optional.md",
-    "Java/Programación Funcional/Stream API.md",
-    "Java/Programación Funcional/Funciones anónimas.md",
-    "Java/Programación Funcional/Lambdas.md",
     "Java/Programación Funcional",
-    "Java/Hilos/DeadLocks.md",
     "Java/Hilos",
     "Java/Streams - File Managment",
     "Java/POO - Clases - Interfaces",
     "Java/Excepciones",
-    "Java/Strings - RegEx",
-    "Java/Collections/Otras Cosas",
-    "Sin título.canvas",
-    "Java/Collections"
+    "Sin título.canvas"
   ]
 }
